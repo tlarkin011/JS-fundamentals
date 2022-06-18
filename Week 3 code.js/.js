@@ -8,3 +8,5 @@ const [last] = reverse;
 return last - first;
 }
 console.log(difference(value))
+value.push(182)
+console.log(value)
